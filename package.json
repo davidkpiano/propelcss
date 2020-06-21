@@ -1,0 +1,13 @@
+{
+  "name": "propelcss",
+  "version": "0.0.1",
+  "description": "Atomic CSS Variables",
+  "main": "index.js",
+  "repository": "https://github.com/davidkpiano/propelcss.git",
+  "author": "David Khourshid <davidkpiano@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.8"
+  }
+}
